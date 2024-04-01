@@ -1,0 +1,14 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: #1E1E1E;
+}
+
+.logo img {
+   max-width: 90px;
+   
+}
